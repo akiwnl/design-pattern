@@ -1,1 +1,0 @@
-<!-- https://refactoring.guru/pt-br/design-patterns/iterator/cpp/example -->
